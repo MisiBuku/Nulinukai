@@ -54,5 +54,7 @@ public class PauseScreen : MonoBehaviour
         Time.timeScale = 1f;
         PausedGame = false;
     }
+    public void QuitGame(){
+        Application.Quit();
+    }
 }
-//https://www.youtube.com/watch?v=JivuXdrIHK0
