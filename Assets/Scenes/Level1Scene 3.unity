@@ -166,10 +166,10 @@ Transform:
   - {fileID: 1528288946}
   - {fileID: 1737958745}
   - {fileID: 1980388957}
-  - {fileID: 598694057}
   - {fileID: 2112321495}
   - {fileID: 1019082592}
   - {fileID: 1486055507}
+  - {fileID: 598694057}
   - {fileID: 1215981555}
   - {fileID: 1031769219}
   m_Father: {fileID: 0}
@@ -1301,7 +1301,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5917663390393319898, guid: 01777ae14f7cc8d4ba25d20922cf7f60, type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 5917663390393319898, guid: 01777ae14f7cc8d4ba25d20922cf7f60, type: 3}
       propertyPath: m_AnchorMax.x
@@ -1388,6 +1388,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 356446107}
     m_Modifications:
+    - target: {fileID: 7493224790985850591, guid: ca23851123185b1448ff882b93ee75bb, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -366
+      objectReference: {fileID: 0}
+    - target: {fileID: 7493224790985850591, guid: ca23851123185b1448ff882b93ee75bb, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 156
+      objectReference: {fileID: 0}
+    - target: {fileID: 7493224791653826358, guid: ca23851123185b1448ff882b93ee75bb, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 262
+      objectReference: {fileID: 0}
+    - target: {fileID: 7493224791653826358, guid: ca23851123185b1448ff882b93ee75bb, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 161
+      objectReference: {fileID: 0}
     - target: {fileID: 7493224792449962217, guid: ca23851123185b1448ff882b93ee75bb, type: 3}
       propertyPath: m_Name
       value: UI
@@ -1406,7 +1422,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7493224792449962221, guid: ca23851123185b1448ff882b93ee75bb, type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 7493224792449962221, guid: ca23851123185b1448ff882b93ee75bb, type: 3}
       propertyPath: m_AnchorMax.x

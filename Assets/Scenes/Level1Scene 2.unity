@@ -1262,6 +1262,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 356446107}
     m_Modifications:
+    - target: {fileID: 7493224790985850591, guid: ca23851123185b1448ff882b93ee75bb, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -363
+      objectReference: {fileID: 0}
+    - target: {fileID: 7493224790985850591, guid: ca23851123185b1448ff882b93ee75bb, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 160
+      objectReference: {fileID: 0}
+    - target: {fileID: 7493224791653826358, guid: ca23851123185b1448ff882b93ee75bb, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 259
+      objectReference: {fileID: 0}
+    - target: {fileID: 7493224791653826358, guid: ca23851123185b1448ff882b93ee75bb, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 159
+      objectReference: {fileID: 0}
     - target: {fileID: 7493224792449962217, guid: ca23851123185b1448ff882b93ee75bb, type: 3}
       propertyPath: m_Name
       value: UI
